@@ -42,7 +42,7 @@ body {
   text-align: center; }
 
 .heading-primary {
-  color: #ffffff;
+  color: #fff;
   text-transform: uppercase;
   /* fixes animation shakiness (hack) */
   backface-visibility: hidden;
